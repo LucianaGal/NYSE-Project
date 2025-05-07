@@ -13,7 +13,7 @@ This project explores a dataset of companies listed on the New York Stock Exchan
 ## Included Files
 
 - `nyse_companies.xlsx` – Cleaned dataset exported from Google Sheets.
-- `dashboard_preview.jpeg`
+- `dashboard_preview.png`
 - `NYSE Data Project.pdf`
 
 ---
